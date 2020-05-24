@@ -11,3 +11,6 @@ Created visualizations and prepared a write up describing the similarities and d
 ### Investigating movie dataset
 
 Conduct data analysis on movie dataset. Used pandas and NumPy to answer the following questions:
+
+1. What attributes are associated with highest grossing (revenue) movies. (Like genre, ratings, popularity etc.)
+2. How has genre popularity changed over the years.
